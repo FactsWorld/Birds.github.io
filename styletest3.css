@@ -1,5 +1,5 @@
 body{   
-       background-image:url("C:/Users/Shivamtiwari/NewWebPages/twobirds.jpg"),linear-gradient(to bottom right, yellow,skyblue,blue);
+       background-image:url("twobirds.jpg"),linear-gradient(to bottom right, yellow,skyblue,blue);
        background-repeat: no-repeat;
        background-attachment:fixed;
        background-blend-mode:overlay;

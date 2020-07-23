@@ -1,0 +1,49 @@
+body{   
+       background-image:url("C:/Users/Shivamtiwari/NewWebPages/twobirds.jpg"),linear-gradient(to bottom right, yellow,skyblue,blue);
+       background-repeat: no-repeat;
+       background-attachment:fixed;
+       background-blend-mode:overlay;
+    } 
+
+section h1{    
+              overflow: auto;
+              border-left-width: 150px;
+              border-left-color: green;
+              border-left-style: solid;
+              padding:0 0 0 38%;
+              border-right-width:100px;
+              border-right-color: rgba(100,255,80,0.8);
+              border-right-style:inset;
+              background-image:linear-gradient(to top right,red,blue);
+              color:white;
+          }
+
+article p{   
+            overflow: auto;
+            padding:40px;
+            margin:10px 0 0 30px;
+            border-width:8px;
+            border-color:blue;
+            border-style:solid;
+            text-align: justify;
+            width:50%;
+            color:black;
+            border-radius:20px 90px 40px 90px;
+         }
+
+
+article{   
+          display:flex;
+          justify-content:space-between;
+          align-items: center;
+          
+       }   
+
+
+footer{   
+         text-align: center;
+         color:black;
+      }
+
+
+
